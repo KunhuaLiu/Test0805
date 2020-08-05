@@ -10,6 +10,7 @@ namespace Task_Month8_Day5
     {
         static void Main(string[] args)
         {
+            int i = 0;
         }
     }
 }
